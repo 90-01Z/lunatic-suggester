@@ -1,6 +1,6 @@
 {
   "name": "lunatic-suggester",
-  "homepage": "/poc-codification",
+  "homepage": "/lunatic-suggester",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
