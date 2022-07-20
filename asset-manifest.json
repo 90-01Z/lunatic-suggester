@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/lunatic-suggester/static/css/main.a9f03c61.css",
-    "main.js": "/lunatic-suggester/static/js/main.2e4c1ffd.js",
+    "main.js": "/lunatic-suggester/static/js/main.301d9c8c.js",
     "index.html": "/lunatic-suggester/index.html",
     "main.a9f03c61.css.map": "/lunatic-suggester/static/css/main.a9f03c61.css.map",
-    "main.2e4c1ffd.js.map": "/lunatic-suggester/static/js/main.2e4c1ffd.js.map"
+    "main.301d9c8c.js.map": "/lunatic-suggester/static/js/main.301d9c8c.js.map"
   },
   "entrypoints": [
     "static/css/main.a9f03c61.css",
-    "static/js/main.2e4c1ffd.js"
+    "static/js/main.301d9c8c.js"
   ]
 }
