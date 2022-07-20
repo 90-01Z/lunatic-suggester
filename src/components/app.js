@@ -19,8 +19,8 @@ function App({ storeInfo: siProps }) {
 
   return (
     <div className="poc-codification">
-      <h1>Hackaton codification</h1>
-      <h2>Editer la configuration</h2>
+      <h1>Hackathon codification</h1>
+      <h2>Éditer la configuration</h2>
       <EditConfig storeInfo={storeInfo} setStoreInfo={setStoreInfo} />
       <h2>Charger les données</h2>
       <DataLoad setData={setData} />
